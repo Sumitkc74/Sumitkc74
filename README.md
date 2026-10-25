@@ -41,36 +41,6 @@ Software engineer with experience building production web platforms, payment and
 
 ---
 
-### Experience Highlights
-
-- **Cloud Systems and Teaching Assistant** | City University of Seattle *(Oct 2025 - Present | Seattle, WA)*
-  - Maintained cloud and application environments for 6 to 7 graduate courses per quarter (AWS EC2, S3, Lambda; Python, React, ML), diagnosing configuration, permission, and dependency failures for 500+ students.
-  - Rebuilt 5 graduate lab environments on AWS with standardized instance setups and LMS integrations, reducing setup failures to nearly zero.
-  - Resolved LMS-to-gradebook sync discrepancies and re-synced grades for 250+ students within 24 hours.
-
-- **Software Engineer** | Aankhijhyal Technologies *(Jun 2023 - Nov 2024 | Pokhara, Nepal)*
-  - Integrated 3 payment and booking REST APIs (eSewa, Khalti, reservations) into client PHP/Laravel platforms, replacing manual order handling and saving ~5 hours per week.
-  - Cut page load times by ~40% across 5+ client sites by tracing delays to oversized assets, redundant queries, and unused plugins, applying compression, caching, and optimizations.
-  - Delivered 15+ client platforms with bilingual content (Nepali and English), inquiry workflows, and administrative management panels.
-
-- **Software Engineer Intern** | Aankhijhyal Technologies *(Sep 2022 - Nov 2022 | Pokhara, Nepal)*
-  - Deployed 3 client websites to production environments (live server, custom domain, SSL) with zero reported post-launch issues.
-  - Standardized local development setup with sample databases and documentation, cutting onboarding time from 3 hours to under 1 hour.
-
----
-
-### Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| [**Parallax-Eval**](https://github.com/Sumitkc74/Parallax-Eval) | Cross-lingual LLM safety evaluation benchmark (80 paired prompts) exposing a 56.4-point refusal gap (Nepali 38.2% vs. English 94.6%). Implemented Judge-Critic-Arbiter agents with McNemar tests, bootstrap 95% CIs, and a hybrid defense cutting the gap to 3.2 points (+15 ms latency). | `Python` `FastAPI` `LangGraph` `RAG` `PostgreSQL` |
-| [**MealMate.ai**](https://github.com/Sumitkc74/Mealmate.ai) | Full-stack AI meal planning platform with a hybrid recommender (TF-IDF, LSA, collaborative filtering) placing target recipes within top 5 results. Features Gemini cooking assistance, pantry parsing, and vision-based ingredient capture. | `React` `Node.js` `FastAPI` `PostgreSQL` `Tailwind` |
-| [**CarePolicyGuard**](https://github.com/Sumitkc74/CarePolicyGuard) | Policy-aware clinical coverage verification system checking patient records against Medicare (CMS) coverage rules for prior-authorization reviews, citing exact record text behind each decision with automated human-in-the-loop escalation. | `Python` `FastAPI` `LangGraph` `Multi-Agent` |
-| [**EcoVate**](https://github.com/Sumitkc74/EcoVate-Insforge-x-Qoder-AI-Agent-Hackathon) | Circular-economy AI platform that analyzes uploaded item images and coordinates vision, research, and recommendation agents into verified step-by-step DIY upcycling plans. | `Next.js` `TypeScript` `Multi-Agent AI` `Insforge` |
-| [**LinguoAI**](https://github.com/Sumitkc74/LinguoAI) | AI-powered language learning mobile application featuring gamified lessons, voice chat with Google Gemini, progress tracking, YouTube recommendations, and smart scheduling. | `React Native` `Node.js` `Express` `MongoDB` `Gemini API` |
-
----
-
 ### Tech Stack & Skills
 
 #### Languages
@@ -132,6 +102,36 @@ Software engineer with experience building production web platforms, payment and
   <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini" />
 </p>
+
+---
+
+### Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| [**Parallax-Eval**](https://github.com/Sumitkc74/Parallax-Eval) | Cross-lingual LLM safety evaluation benchmark (80 paired prompts) exposing a 56.4-point refusal gap (Nepali 38.2% vs. English 94.6%). Implemented Judge-Critic-Arbiter agents with McNemar tests, bootstrap 95% CIs, and a hybrid defense cutting the gap to 3.2 points (+15 ms latency). | `Python` `FastAPI` `LangGraph` `RAG` `PostgreSQL` |
+| [**MealMate.ai**](https://github.com/Sumitkc74/Mealmate.ai) | Full-stack AI meal planning platform with a hybrid recommender (TF-IDF, LSA, collaborative filtering) placing target recipes within top 5 results. Features Gemini cooking assistance, pantry parsing, and vision-based ingredient capture. | `React` `Node.js` `FastAPI` `PostgreSQL` `Tailwind` |
+| [**CarePolicyGuard**](https://github.com/Sumitkc74/CarePolicyGuard) | Policy-aware clinical coverage verification system checking patient records against Medicare (CMS) coverage rules for prior-authorization reviews, citing exact record text behind each decision with automated human-in-the-loop escalation. | `Python` `FastAPI` `LangGraph` `Multi-Agent` |
+| [**EcoVate**](https://github.com/Sumitkc74/EcoVate-Insforge-x-Qoder-AI-Agent-Hackathon) | Circular-economy AI platform that analyzes uploaded item images and coordinates vision, research, and recommendation agents into verified step-by-step DIY upcycling plans. | `Next.js` `TypeScript` `Multi-Agent AI` `Insforge` |
+| [**LinguoAI**](https://github.com/Sumitkc74/LinguoAI) | AI-powered language learning mobile application featuring gamified lessons, voice chat with Google Gemini, progress tracking, YouTube recommendations, and smart scheduling. | `React Native` `Node.js` `Express` `MongoDB` `Gemini API` |
+
+---
+
+### Experience Highlights
+
+- **Cloud Systems and Teaching Assistant** | City University of Seattle *(Oct 2025 - Present | Seattle, WA)*
+  - Maintained cloud and application environments for 6 to 7 graduate courses per quarter (AWS EC2, S3, Lambda; Python, React, ML), diagnosing configuration, permission, and dependency failures for 500+ students.
+  - Rebuilt 5 graduate lab environments on AWS with standardized instance setups and LMS integrations, reducing setup failures to nearly zero.
+  - Resolved LMS-to-gradebook sync discrepancies and re-synced grades for 250+ students within 24 hours.
+
+- **Software Engineer** | Aankhijhyal Technologies *(Jun 2023 - Nov 2024 | Pokhara, Nepal)*
+  - Integrated 3 payment and booking REST APIs (eSewa, Khalti, reservations) into client PHP/Laravel platforms, replacing manual order handling and saving ~5 hours per week.
+  - Cut page load times by ~40% across 5+ client sites by tracing delays to oversized assets, redundant queries, and unused plugins, applying compression, caching, and optimizations.
+  - Delivered 15+ client platforms with bilingual content (Nepali and English), inquiry workflows, and administrative management panels.
+
+- **Software Engineer Intern** | Aankhijhyal Technologies *(Sep 2022 - Nov 2022 | Pokhara, Nepal)*
+  - Deployed 3 client websites to production environments (live server, custom domain, SSL) with zero reported post-launch issues.
+  - Standardized local development setup with sample databases and documentation, cutting onboarding time from 3 hours to under 1 hour.
 
 ---
 
