@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Hi there, I'm Sumit K C 👋
+  # Hi there, I'm Sumit K C
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=520&lines=Full-Stack+%26+AI+Engineer;Multi-Agent+Systems+%26+LLM+Safety;M.S.+in+Computer+Science+%40+CityU+Seattle;Building+Scalable+Web+%26+Mobile+Platforms" alt="Typing SVG" />
@@ -30,18 +30,18 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🎓 **M.S. in Computer Science** student at **City University of Seattle** (GPA: 4.0 / 4.0, Dean's List).
-- 👨‍🏫 **Graduate Teaching & Systems Assistant** at CityU, supporting 300+ graduate students across courses in Python, AWS cloud infrastructure, ML algorithms, and full-stack systems.
-- 🤖 **AI & Multi-Agent Systems Builder**, specializing in agentic workflows (LangGraph), LLM evaluation & red-teaming frameworks, RAG pipelines, and cross-lingual safety analysis.
-- 💻 **Full-Stack & Mobile Developer**, architecting end-to-end applications with FastAPI, Next.js, React, and Flutter.
-- 📜 **Certified Microsoft Fabric Data Engineer**.
-- 🔭 **Current Focus:** Expanding multi-agent collaboration frameworks and robust safety evaluation tooling for frontier AI models.
+- **M.S. in Computer Science** candidate at **City University of Seattle** (GPA: 4.0 / 4.0, Dean's List).
+- **Graduate Teaching & Systems Assistant** at CityU, supporting 300+ graduate students across courses in Python, AWS cloud infrastructure, ML algorithms, and full-stack systems.
+- **AI & Multi-Agent Systems Engineer**, specializing in agentic workflows (LangGraph), LLM evaluation & red-teaming frameworks, RAG pipelines, and cross-lingual safety analysis.
+- **Full-Stack & Mobile Developer**, architecting end-to-end applications with FastAPI, Next.js, React, React Native, and Flutter.
+- **Certified Microsoft Fabric Data Engineer**.
+- **Current Focus:** Expanding multi-agent collaboration frameworks and robust safety evaluation tooling for frontier AI models.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 
 #### Languages
 <p>
@@ -72,6 +72,7 @@
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
@@ -102,22 +103,23 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🛡️ [**Parallax-Eval**](https://github.com/Sumitkc74/Parallax-Eval) | Cross-lingual LLM safety evaluation framework comparing model behaviors across languages using a multi-agent Judge/Critic/Arbiter LangGraph workflow, paired statistical testing, and automated red-teaming. | `FastAPI` `LangGraph` `Flutter` `PostgreSQL` `RAG` |
-| 🥗 [**MealMate.ai**](https://github.com/Sumitkc74/Mealmate.ai) | Intelligent full-stack AI meal planning and nutrition assistant generating tailored recipes, macronutrient optimization, and dietary constraints with dynamic feedback loops. | `Next.js` `FastAPI` `LangChain` `PostgreSQL` `Tailwind` |
-| 📋 [**CarePolicyGuard**](https://github.com/Sumitkc74/CarePolicyGuard) | Multi-agent healthcare policy and claims intelligence platform automating verification, anomaly detection, and compliance auditing. | `Python` `LangGraph` `Multi-Agent` `FastAPI` |
-| 🚗 [**Learn to Drive**](https://github.com/Sumitkc74/learn_to_drive) | Dual-language learner, driving school, and administrative web & mobile platform featuring real-time booking, interactive exam simulations, and progress tracking. | `Flutter` `Laravel` `MySQL` `REST API` `Gemini` |
-| 🌐 [**Personal Portfolio**](https://github.com/Sumitkc74/portfolio) | Clean, ultra-fast, WCAG AA compliant personal portfolio showcasing projects, experience, and system architecture flows. Live at [sumitkc74.com.np](https://sumitkc74.com.np/). | `HTML5` `CSS3` `JavaScript` `Netlify` |
+| [**Parallax-Eval**](https://github.com/Sumitkc74/Parallax-Eval) | Cross-lingual LLM safety evaluation framework comparing model behaviors across languages using a multi-agent Judge/Critic/Arbiter LangGraph workflow, paired statistical testing, and automated red-teaming. | `FastAPI` `LangGraph` `Flutter` `PostgreSQL` `RAG` |
+| [**MealMate.ai**](https://github.com/Sumitkc74/Mealmate.ai) | Intelligent full-stack AI meal planning and nutrition assistant generating tailored recipes, macronutrient optimization, and dietary constraints with dynamic feedback loops. | `Next.js` `FastAPI` `LangChain` `PostgreSQL` `Tailwind` |
+| [**EcoVate**](https://github.com/Sumitkc74/EcoVate-Insforge-x-Qoder-AI-Agent-Hackathon) | Circular-economy AI platform that analyzes uploaded item images and coordinates vision, research, and recommendation agents into verified step-by-step DIY upcycling plans. | `Next.js` `TypeScript` `Multi-Agent AI` `Insforge` |
+| [**LinguoAI**](https://github.com/Sumitkc74/LinguoAI) | AI-powered language learning mobile application featuring gamified lessons, voice chat with Google Gemini, progress tracking, YouTube recommendations, and smart scheduling. | `React Native` `Node.js` `Express` `MongoDB` `Gemini API` |
+| [**CarePolicyGuard**](https://github.com/Sumitkc74/CarePolicyGuard) | Multi-agent healthcare policy and claims intelligence platform automating verification, anomaly detection, and compliance auditing. | `Python` `LangGraph` `Multi-Agent` `FastAPI` |
+| [**Learn to Drive**](https://github.com/Sumitkc74/learn_to_drive) | Dual-language learner, driving school, and administrative web & mobile platform featuring real-time booking, interactive exam simulations, and progress tracking. | `Flutter` `Laravel` `MySQL` `REST API` `Gemini` |
 
 ---
 
-### 📊 GitHub Activity & Stats
+### GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumitkc74&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sumit's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumitkc74&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumitkc74&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </div>
 
@@ -127,15 +129,14 @@
 
 ---
 
-### 📬 Get In Touch
+### Connect
 
-I am always interested in discussing software engineering, generative AI, multi-agent systems, and new collaborative opportunities.
-
-- 🌐 **Portfolio:** [sumitkc74.com.np](https://sumitkc74.com.np/)
-- 💼 **LinkedIn:** [linkedin.com/in/sumitkc74](https://www.linkedin.com/in/sumitkc74/)
-- 📧 **Email:** [sumitkc74@gmail.com](mailto:sumitkc74@gmail.com)
-- 📍 **Location:** Seattle, Washington, USA
+- **Personal Website:** [sumitkc74.com.np](https://sumitkc74.com.np/)
+- **LinkedIn:** [linkedin.com/in/sumitkc74](https://www.linkedin.com/in/sumitkc74/)
+- **GitHub:** [github.com/Sumitkc74](https://github.com/Sumitkc74)
+- **Email:** [sumitkc74@gmail.com](mailto:sumitkc74@gmail.com)
+- **Location:** Seattle, Washington, USA
 
 <div align="center">
-  <sub>Designed & built with care by Sumit K C. Thanks for stopping by! 🚀</sub>
+  <sub>Designed and maintained by Sumit K C.</sub>
 </div>
