@@ -32,12 +32,9 @@
 
 ### About Me
 
-Software engineer with experience building production web platforms, payment and booking integrations, AWS cloud environments, and AI-powered systems. Focused on reliable, well-tested software that cuts manual work and improves performance.
-
-- **Cloud Systems and Teaching Assistant** at City University of Seattle, maintaining AWS and application environments across 6 to 7 graduate courses per quarter for 500+ students.
-- **Former Software Engineer** at Aankhijhyal Technologies, delivering 15+ client platforms, integrating payment and booking REST APIs, and reducing page load times by ~40%.
-- **AI & Systems Engineer**, developing multi-agent evaluation frameworks (LangGraph, Judge-Critic-Arbiter), clinical prior-authorization verifiers, and hybrid recommender systems.
-- **Education:** M.S. in Computer Science at City University of Seattle (GPA: 4.0 / 4.0, Dean's List).
+- Software engineer building production web platforms, cloud infrastructure, and AI-powered systems.
+- M.S. in Computer Science candidate at City University of Seattle (GPA: 4.0 / 4.0).
+- Graduate Cloud Systems and Teaching Assistant supporting AWS lab environments for 500+ students.
 
 ---
 
