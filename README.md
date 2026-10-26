@@ -34,7 +34,7 @@
 
 - Software engineer building production web platforms, cloud infrastructure, and AI-powered systems.
 - M.S. in Computer Science candidate at City University of Seattle (GPA: 4.0 / 4.0).
-- Graduate Cloud Systems and Teaching Assistant supporting AWS lab environments for 500+ students.
+- Cloud Systems and Teaching Assistant supporting AWS lab environments for 500+ students.
 
 ---
 
